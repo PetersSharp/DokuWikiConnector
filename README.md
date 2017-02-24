@@ -1,12 +1,14 @@
-# DocuWikiConnector
-.NET DocuWiki Connector API
-see [stCoCServer](https://github.com/PetersSharp/stCoCServer)
+# DokuWikiConnector
+[![Release](https://img.shields.io/github/release/PetersSharp/stCoCServer.svg?style=flat)](https://github.com/PetersSharp/stCoCServer/releases/latest)
+[![Issues](https://img.shields.io/github/issues/PetersSharp/stCoCServer.svg?style=flat)](https://github.com/PetersSharp/stCoCServer/issues)
+[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/PetersSharp/stCoCServer/blob/master/LICENSE)
 
-DocuWikiConnector [source](https://github.com/PetersSharp/stCoCServer/tree/master/stCoCServer/stExtLib/stDokuWikiConnector-dll)
+####.NET RPC-XML DokuWiki Connector API
 
-DocuWikiConnector [Test suite](https://github.com/PetersSharp/stCoCServer/tree/master/stCoCServer/stTest/TestDokuWikiConnector)
-
-DocuWikiConnector [Method Documentation](https://github.com/PetersSharp/stCoCServer/tree/master/stCoCServer/stExtLib/stDokuWikiConnector-dll/Doc)
+ this part of stCoCServer, see [stCoCServer](https://github.com/PetersSharp/stCoCServer)
+* DokuWikiConnector [source](https://github.com/PetersSharp/stCoCServer/tree/master/stCoCServer/stExtLib/stDokuWikiConnector-dll)
+* DokuWikiConnector [Test suite](https://github.com/PetersSharp/stCoCServer/tree/master/stCoCServer/stTest/TestDokuWikiConnector)
+* DokuWikiConnector [Method Documentation](https://github.com/PetersSharp/stCoCServer/tree/master/stCoCServer/stExtLib/stDokuWikiConnector-dll/Doc)
 
 ####Example use:
 
