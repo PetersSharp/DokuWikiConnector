@@ -1,3 +1,3 @@
 # DocuWikiConnector
 .NET DocuWiki Connector API
-see (https://github.com/PetersSharp/stCoCServer)[stCoCServer]
+see [stCoCServer](https://github.com/PetersSharp/stCoCServer)
