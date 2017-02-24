@@ -1,8 +1,11 @@
 # DocuWikiConnector
 .NET DocuWiki Connector API
 see [stCoCServer](https://github.com/PetersSharp/stCoCServer)
+
 DocuWikiConnector [source](https://github.com/PetersSharp/stCoCServer/tree/master/stCoCServer/stExtLib/stDokuWikiConnector-dll)
+
 DocuWikiConnector [Test suite](https://github.com/PetersSharp/stCoCServer/tree/master/stCoCServer/stTest/TestDokuWikiConnector)
+
 DocuWikiConnector [Method Documentation](https://github.com/PetersSharp/stCoCServer/tree/master/stCoCServer/stExtLib/stDokuWikiConnector-dll/Doc)
 
 ####Example use:
